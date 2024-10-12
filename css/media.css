@@ -1,0 +1,654 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+  /*banner*/
+  .banner {
+    height: 575px;
+  }
+
+  .menu li {
+    margin-left: 0;
+  }
+
+  button.learning-btn {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  .banner-content h1 {
+    font-size: 30px;
+  }
+
+  .banner-content h6 {
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .banner-content {
+    padding: 30px 10px 30px 10px;
+    margin-top: 110px;
+  }
+
+  .banner-content a {
+    padding: 18px 20px !important;
+    font-size: 12px;
+  }
+
+  /*banner*/
+  /*about*/
+  section.about {
+    padding: 60px 0;
+  }
+
+  .about-content h2 {
+    font-size: 30px;
+  }
+
+  .about-content a {
+    padding: 12px 10px;
+    font-size: 12px;
+  }
+
+  .about-img {
+    margin-top: 40px;
+  }
+
+  /*about*/
+  /*customer review*/
+  .cus-review {
+    padding: 60px 0;
+  }
+
+  .review-heading h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .review-heading p {
+    padding: 0 0;
+  }
+
+  .review-slider-single-item h6 {
+    font-size: 18px;
+  }
+
+  .review-slider.owl-carousel .owl-dots button.owl-dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .review-slider.owl-carousel .owl-dots {
+    bottom: -40px;
+  }
+
+  /*customer review*/
+  /*why us*/
+  section.why-us {
+    padding: 60px 0 40px 0;
+  }
+
+  .why-us-heading.text-center h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .feature-item h4 {
+    font-size: 20px;
+  }
+
+  .feature-icon {
+    font-size: 30px;
+  }
+
+  .feature-item {
+    margin-bottom: 30px;
+  }
+
+  /*why us*/
+  /*learn python*/
+  .python-learn {
+    padding: 60px 0;
+  }
+
+  .python-learn-content h2 {
+    font-size: 30px;
+  }
+
+  .python-learn-content a {
+    padding: 15px 10px;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .python-learn-content {
+    margin-bottom: 30px;
+  }
+
+  /*learn python*/
+  /*course tile*/
+  section.course-tile {
+    padding: 60px 0;
+  }
+
+  .course-tile-heading h2 {
+    font-size: 30px;
+  }
+
+  .course-tile-box {
+    height: 340px;
+  }
+
+  center a.view-all-btn {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+
+  /*course tile*/
+  /*footer*/
+  .conntact-us ul li span {
+    display: block;
+  }
+
+  .conntact-us ul li a {
+    font-size: 16px !important;
+  }
+
+  .footer-logo h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .footer-logo p {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
+  .connect-us h2 {
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+
+  .conntact-us {
+    margin-top: 35px;
+  }
+
+  .connect-us ul li a {
+    width: 35px;
+  }
+
+  /*footer*/
+  /*faq*/
+  section.faq {
+    padding: 60px 0;
+  }
+
+  .accordian .card .card-header h3 {
+    font-size: 16px;
+    padding-right: 58px;
+  }
+
+  /*faq*/
+  /*instructor*/
+  .instructor {
+    padding: 60px 0;
+  }
+
+  .about-instructor h2 {
+    font-size: 30px;
+  }
+
+  .about-instructor {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .instructor-img {
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+
+  .instructor-img {
+    margin: 0;
+    width: auto;
+  }
+
+  .instructor-img video {
+    width: auto;
+    margin: auto;
+  }
+
+  /*instructor*/
+  .limited-button {}
+
+  .learn_more {
+    margin: 0;
+    padding: 0;
+    margin-top: 15px !important;
+    padding: 15px 83px !important;
+  }
+
+  .lean_code_button {
+    margin-top: 20px;
+    text-align: end;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .learn_code p {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .btn-book {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    background-color: var(--cs-primary);
+    padding: 15px;
+    font-weight: 500;
+  }
+
+  .btn-leanmore {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 15px 30px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 20px;
+  }
+
+  .coa a {
+    font-size: 15px;
+    padding-left: 0;
+    margin-left: 20px;
+  }
+
+  .nav {
+    width: 60%;
+    margin-bottom: 10px;
+  }
+
+  .ml-auto,
+  .mx-auto {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .navbar-nav a {
+    margin: auto;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .nav {
+    display: flex;
+    align-items: center;
+    width: 80%;
+  }
+
+  /*banner*/
+  .banner {
+    height: 530px;
+  }
+
+  .menu li {
+    margin-left: 0;
+  }
+
+  button.learning-btn {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  .banner-content h1 {
+    font-size: 30px;
+  }
+
+  .banner-content h6 {
+    font-size: 14px;
+    line-height: 30px;
+  }
+
+  .banner-content {
+    padding: 30px 10px 30px 10px;
+    margin-top: 93px;
+  }
+
+  .banner-content a {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+
+  /*banner*/
+  /*about*/
+  section.about {
+    padding: 60px 0;
+  }
+
+  .about-content h2 {
+    font-size: 30px;
+  }
+
+  .about-content a {
+    padding: 12px 10px;
+    font-size: 12px;
+  }
+
+  .about-img {
+    margin-top: 40px;
+  }
+
+  /*about*/
+  /*customer review*/
+  .cus-review {
+    padding: 60px 0;
+  }
+
+  .review-heading h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .review-heading p {
+    padding: 0 0;
+  }
+
+  .review-slider-single-item h6 {
+    font-size: 18px;
+  }
+
+  .review-slider.owl-carousel .owl-dots button.owl-dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .review-slider.owl-carousel .owl-dots {
+    bottom: -40px;
+  }
+
+  /*customer review*/
+  /*why us*/
+  section.why-us {
+    padding: 60px 0 40px 0;
+  }
+
+  .why-us-heading.text-center h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .feature-item h4 {
+    font-size: 20px;
+  }
+
+  .feature-icon {
+    font-size: 30px;
+  }
+
+  .feature-item {
+    margin-bottom: 30px;
+  }
+
+  /*why us*/
+  /*learn python*/
+  .python-learn {
+    padding: 60px 0;
+  }
+
+  .python-learn-content h2 {
+    font-size: 30px;
+  }
+
+  .python-learn-content a {
+    padding: 15px 10px;
+    font-size: 12px;
+  }
+
+  .python-learn-content {
+    margin-bottom: 30px;
+  }
+
+  /*learn python*/
+  /*course tile*/
+  section.course-tile {
+    padding: 60px 0;
+  }
+
+  .course-tile-heading h2 {
+    font-size: 30px;
+  }
+
+  .course-tile-box {
+    height: 370px;
+  }
+
+  center a.view-all-btn {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
+
+  /*course tile*/
+  /*footer*/
+  .conntact-us ul li span {
+    display: block;
+  }
+
+  .conntact-us ul li a {
+    font-size: 16px !important;
+  }
+
+  .footer-logo h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .footer-logo p {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
+  .connect-us h2 {
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+
+  .connect-us ul li a {
+    width: 35px;
+  }
+
+  /*footer*/
+  /*instructor*/
+  .instructor {
+    padding: 60px 0;
+  }
+
+  .about-instructor h2 {
+    font-size: 30px;
+  }
+
+  .about-instructor {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .instructor-img {
+    margin: auto;
+    width: auto;
+    margin-bottom: 30px;
+  }
+
+  /*instructor*/
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  .nav {
+    width: 50%;
+  }
+
+  .ml-auto,
+  .mx-auto {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .navbar-nav a {
+    margin: auto;
+  }
+
+  /*banner*/
+
+  .banner-content {
+
+    margin-top: 90px;
+  }
+
+  button.learning-btn {
+    margin-left: 0;
+  }
+
+  .banner-content h1 {
+    font-size: 40px;
+  }
+
+  .banner-content h6 {
+    font-size: 16px;
+  }
+
+  /*banner*/
+  /*about*/
+  .about-content h2 {
+    font-size: 30px;
+  }
+
+  .about-content a {
+    padding: 15px 30px;
+    font-size: 14px;
+  }
+
+  /*about*/
+  /*customer review*/
+  .review-heading p {
+    padding: 0 0;
+  }
+
+  /*customer review*/
+  /*why us*/
+  .feature-item h4 {
+    font-size: 20px;
+  }
+
+  .feature-icon {
+    font-size: 22px;
+    margin-right: 20px;
+    margin-top: 0;
+  }
+
+  .why-us-heading.text-center h2 {
+    font-size: 30px;
+  }
+
+  /*why us*/
+  /*learn python*/
+  .python-learn-content h2 {
+    font-size: 30px;
+  }
+
+  .python-learn-content a {
+    padding: 15px 30px;
+    font-size: 14px;
+  }
+
+  /*learn python*/
+  /*course tile*/
+  .course-tile-heading h2 {
+    font-size: 30px;
+  }
+
+  .course-tile-box {
+    height: 275px;
+  }
+
+  center a.view-all-btn {
+    font-size: 14px;
+  }
+
+  /*course tile*/
+  /*footer*/
+  .conntact-us ul li a {
+    font-size: 12px !important;
+  }
+
+  .conntact-us ul li span {
+    font-size: 16px;
+  }
+
+  .connect-us ul li a {
+    width: 35px;
+  }
+
+  /*footer*/
+  /*instructor*/
+  .instructor {
+    padding: 60px 0;
+  }
+
+  .about-instructor h2 {
+    font-size: 30px;
+  }
+
+  .about-instructor {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .instructor-img {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: auto;
+  }
+
+  /*instructor*/
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  .about-content a,
+  .python-learn-content a,
+  center a.view-all-btn {
+    font-size: 16px;
+  }
+
+  .feature-icon {
+    font-size: 25px;
+  }
+
+  .conntact-us ul li a {
+    font-size: 15px !important;
+  }
+
+  .conntact-us ul li span {
+    font-size: 16px;
+  }
+
+  .nav {
+    width: 30%;
+  }
+
+  .coa a {
+    font-size: 17px;
+    padding-left: 0px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
