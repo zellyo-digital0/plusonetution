@@ -1,4 +1,2 @@
-# plusonetution
+# https://zellyo-digital0.github.io/plusonetution
 
-https://faruq05.github.io/plusonetution/
-# plusonetution
